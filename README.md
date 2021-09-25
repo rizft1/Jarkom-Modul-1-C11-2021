@@ -80,3 +80,4 @@ Langkah pertama ada memfilter paket untuk mendapatkan file bukanapapa.txt yaitu 
 15. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
 
 ## Kendala yang dialami
+- Beberapa kali harus ganti provider karna wifi, telkomsel, dan three ngelag semua
