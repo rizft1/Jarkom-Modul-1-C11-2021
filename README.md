@@ -7,19 +7,25 @@
 
 ## Cara Pengerjaan
 1. Sebutkan webserver yang digunakan pada "ichimarumaru.tech"! 
-
+![image-000](https://user-images.githubusercontent.com/57831206/134773481-1516c950-065c-4f18-ab06-e0c370d0b85e.png)
+![image-001](https://user-images.githubusercontent.com/57831206/134773484-5e0f68a4-f2b1-4fa9-9611-46809564a021.png)
 
 2. Temukan paket dari web-web yang menggunakan basic authentication method!
-
+![image-002](https://user-images.githubusercontent.com/57831206/134773489-fdecdc88-17fa-4ee5-9472-245ead4d24ec.png)
 
 3. Ikuti perintah di basic.ichimarumaru.tech! Username dan password bisa didapatkan dari file .pcapng!
-
+![image-003](https://user-images.githubusercontent.com/57831206/134773490-feeee43e-e287-48d1-8e15-20a217a742f0.png)
+![image-004](https://user-images.githubusercontent.com/57831206/134773491-4dd51269-d332-47b8-93eb-2fea4bfacf0c.png)
 
 4. Temukan paket mysql yang mengandung perintah query select!
-
+![image-005](https://user-images.githubusercontent.com/57831206/134773493-56fdbf1e-da50-456b-8ae7-da4d74bdbf12.png)
+![image-006](https://user-images.githubusercontent.com/57831206/134773499-652f8750-7d01-47a7-9c6d-68b47c37945f.png)
+![image-007](https://user-images.githubusercontent.com/57831206/134773501-752ad6a7-8027-47f3-8ae1-6a2a8b6c8f07.png)
+![image-008](https://user-images.githubusercontent.com/57831206/134773503-20a3055d-c04f-4dbf-a5b9-4484442e9d96.png)
 
 5. Login ke portal.ichimarumaru.tech kemudian ikuti perintahnya! Username dan password bisa didapat dari query insert pada table users dari file .pcap!
-
+![image-009](https://user-images.githubusercontent.com/57831206/134773505-403bbc92-3ac7-4ec8-9306-c15cc3278166.jpg)
+![image-010](https://user-images.githubusercontent.com/57831206/134773507-8bee6964-5d66-49a5-943a-2634c9bed4d5.png)
 
 6. Cari username dan password ketika melakukan login ke FTP Server!
 
