@@ -90,3 +90,4 @@ menggunakan capture filter = src port 192.168.125.180
 ![image-025](https://user-images.githubusercontent.com/62735317/134774601-ff2b01ea-c18d-44dc-8741-3014d0fcf384.png)
 
 ## Kendala yang dialami
+- Harus beberapa kali alih provider karena wifi, telkomsel dan 3 semuanya ngelag sehingga terhambat saat download file 6-7 yang berukuran lumayan besar
