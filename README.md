@@ -25,13 +25,13 @@ Selanjutnya menggunakan `Credentials` yang telah didapatkan dari paket sebelumny
 
 4. Temukan paket mysql yang mengandung perintah query select! <br>
 Menggunakan display filter `mysql.query contains select || mysql.query contains SELECT` untuk menampilkan paket yang mengandung query select.
-![image-005](https://user-images.githubusercontent.com/57831206/134773493-56fdbf1e-da50-456b-8ae7-da4d74bdbf12.png)
+![image-005](https://user-images.githubusercontent.com/57831206/134773493-56fdbf1e-da50-456b-8ae7-da4d74bdbf12.png) <br>
 Didapatkan 3 paket yang mengandung query select. Paket dengan query select pertama:
-![image-006](https://user-images.githubusercontent.com/57831206/134773499-652f8750-7d01-47a7-9c6d-68b47c37945f.png)
+![image-006](https://user-images.githubusercontent.com/57831206/134773499-652f8750-7d01-47a7-9c6d-68b47c37945f.png) <br>
 Paket dengan query select kedua:
-![image-007](https://user-images.githubusercontent.com/57831206/134773501-752ad6a7-8027-47f3-8ae1-6a2a8b6c8f07.png)
+![image-007](https://user-images.githubusercontent.com/57831206/134773501-752ad6a7-8027-47f3-8ae1-6a2a8b6c8f07.png) <br>
 Paket dengan query select ketiga:
-![image-008](https://user-images.githubusercontent.com/57831206/134773503-20a3055d-c04f-4dbf-a5b9-4484442e9d96.png)
+![image-008](https://user-images.githubusercontent.com/57831206/134773503-20a3055d-c04f-4dbf-a5b9-4484442e9d96.png) 
 
 5. Login ke portal.ichimarumaru.tech kemudian ikuti perintahnya! Username dan password bisa didapat dari query insert pada table users dari file .pcap! <br>
 Menggunakan display filter `mysql.query contains INSERT` untuk menampilkan paket yang mengandung query insert.
