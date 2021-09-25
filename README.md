@@ -66,18 +66,27 @@ Langkah pertama ada memfilter paket untuk mendapatkan file bukanapapa.txt yaitu 
 
 
 11. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80! 
+menggunakan display filter = src port 80
+![image-021](https://user-images.githubusercontent.com/62735317/134774592-350a8a8a-c2e1-45e9-9c82-8d97956e2512.png)
 
 
 12. Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
+menggunakan display filter = port 21
+![12](https://user-images.githubusercontent.com/62735317/134774731-c445ffdf-9e6b-4a65-9e99-1f35b247dcb3.PNG)
 
 
 13. Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
+menggunakan display filter = dst port 443
+![image-023](https://user-images.githubusercontent.com/62735317/134774596-84595294-1cd4-487d-827a-183b1a9930fb.png)
 
 
 14. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke kemenag.go.id!
+menggunakan display filter = dst host kemenag.co.id
+![image-024](https://user-images.githubusercontent.com/62735317/134774598-d9249178-db56-45ae-8e3f-b4ad84237759.png)
 
 
 15. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+menggunakan display filter = src port 192.168.125.180
+![image-025](https://user-images.githubusercontent.com/62735317/134774601-ff2b01ea-c18d-44dc-8741-3014d0fcf384.png)
 
 ## Kendala yang dialami
-- Beberapa kali harus ganti provider karna wifi, telkomsel, dan three ngelag semua
